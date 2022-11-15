@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;600&family=Source+Serif+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Source+Serif+Pro&family=Wendy+One&display=swap');
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Caveat', cursive;
+    font-family: 'Alfa Slab One', cursive;
 }
 
 main {
@@ -19,6 +19,7 @@ p {
     font-size: 15em;
     color: rgb(24, 24, 24);
     position: relative;
+    cursor: pointer;
 }
 
 p::before,
